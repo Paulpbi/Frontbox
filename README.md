@@ -4,7 +4,7 @@ Este é um projeto Frontbox aonde é simulado um site que vende cursos.
 
 ## Tecnologias usadas:
 
-### **Html** e **Css**.
+**Html** e **Css**.
 
 ## Redes sociais:
 
@@ -19,4 +19,4 @@ Este é um projeto Frontbox aonde é simulado um site que vende cursos.
 - BEM
 - Trabalhar com variáveis CSS
 - Media Queries
-
+- Como usar o Github

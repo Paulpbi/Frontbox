@@ -10,7 +10,7 @@ Este é um projeto Frontbox aonde é simulado um site que vende cursos.
 
 ### [Instagram](https://www.instagram.com/paulopbi_/)
 
-### [Github](https://github.com/Paulpbi)
+### [Github](https://github.com/paulopbi)
 
 ## O que eu aprendi ao terminar esse projeto:
 
